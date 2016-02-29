@@ -28,8 +28,8 @@
 
     <!-- use own fork of twitter4j to get features that are not released on the official twitter4j package yet -->
     <dependency>
-      <groupId>com.github.Bunkerbewohner</groupId>
-      <artifactId>twitter4j</artifactId>
+      <groupId>com.github.Bunkerbewohner.twitter4j</groupId>
+      <artifactId>twitter4j-core</artifactId>
       <version>release-tfj-886</version>
     </dependency>
 
